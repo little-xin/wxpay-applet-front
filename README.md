@@ -47,8 +47,8 @@ git clone https://gitee.com/little-turtle-z/wxpay-applet-front.git
 
 | 前后端 | 项目地址  |
 |---|---|
-| 前端 | [代码地址](https://gitee.com/little-turtle-z/wxpay-applet-front)  |
-|  后端 | [代码地址](https://gitee.com/little-turtle-z/wxpay-applet-back)  |
+| 前端 | [代码地址](https://github.com/little-xin/wxpay-applet-front)  |
+|  后端 | [代码地址](https://github.com/little-xin/wxpay-applet-back)  |
 
 
 ### 支付流程简要
